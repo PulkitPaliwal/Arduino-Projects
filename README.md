@@ -22,3 +22,7 @@ A photoresistor can be attached to the screen, and the brightness should be incr
   * General lighting conditions (works better in a dark room, nevertheless, don't let any light directly onto your screen)
   * Brightness of the screen and color contrast settings
   * Position of the photoresistor
+
+## Demo-
+[Watch it here](https://drive.google.com/file/d/1Fy28mR4CiQMVbj5SsDaxedmWMT5nz-VY/view?usp=sharing)
+#### The setup achieved a high of 378 in the video and a record high of 488.
