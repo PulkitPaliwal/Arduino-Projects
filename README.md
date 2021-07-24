@@ -17,7 +17,7 @@ A photoresistor can be attached to the screen, and the brightness should be incr
   * Number of previous iterations we check for (whether the servo moved in the previous iteration or not)
   * Factor with which the dtime variable is modified
   * Score gaps with which the dtime variable modification happens
-  * The threshold which is 
+  * The threshold which is decided after which the arduino gives signal for the motor to rotate
 * External
   * General lighting conditions (works better in a dark room, nevertheless, don't let any light directly onto your screen)
   * Brightness of the screen and color contrast settings
